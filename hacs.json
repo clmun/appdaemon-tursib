@@ -1,7 +1,6 @@
 {
   "name": "Tursib AppDaemon Sensor",
   "render_readme": true,
-  "content_in_root": false,
   "domains": ["appdaemon"],
-  "country": ["ro"]
+  "content_in_root": false
 }
